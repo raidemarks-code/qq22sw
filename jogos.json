@@ -1,0 +1,5 @@
+[
+  {"nome":"FinalFight","categoria":"FinalFight","arquivo":"jogos/luta/FinalFight.swf","imagem":"jogos/luta/FinalFight.jpg"},
+  {"nome":"Superbike","categoria":"Corrida","arquivo":"jogos/corrida/superbike.swf","imagem":"jogos/corrida/superbike.png"},
+  {"nome":"Aventura","categoria":"Aventura","arquivo":"jogos/aventura/aventura.swf","imagem":"jogos/aventura/aventura.jpg"}
+]
